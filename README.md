@@ -1,1 +1,1 @@
-# chatgpt-clonea_android-application
+# ChatGPT Android Application using ChatGpt API
