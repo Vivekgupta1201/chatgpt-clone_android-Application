@@ -1,3 +1,5 @@
+Project Title: Android ChatGPT Clone App
+
 Project Overview: Developed an Android mobile application using Java in Android Studio that replicates the functionality of OpenAI's ChatGPT using their API. The goal of the app was to provide users with an interactive conversational experience powered by artificial intelligence.
 
 Key Components:
